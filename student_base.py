@@ -1,7 +1,7 @@
 from tkinter import messagebox
 
 from student import etudiant
-
+#good
 
 class StudentController:
     def __init__(self, connection):
